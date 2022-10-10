@@ -1,3 +1,0 @@
-wmic path SoftwareLicensingService get OA3xOriginalProductKey
-OA3xOriginalProductKey
-MY3WN-M236J-VKFVT-6KJPX-M97PD
